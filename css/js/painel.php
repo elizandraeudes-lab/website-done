@@ -11,7 +11,7 @@ $user = $_SESSION['user'];
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
+<head
   <meta charset="UTF-8">
   <title>Painel - Website Done</title>
   <link rel="stylesheet" href="css/style.css">
